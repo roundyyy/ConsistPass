@@ -1,5 +1,5 @@
 # ConsistPass - A Simple but Secure Deterministic Password Generator
-![Alt Text](icon.png)
+![Alt Text](Icon.png)
 
 **ConsistPass** is an Android application designed to generate secure, deterministic passwords without storing them or requiring an internet connection. The app leverages a unique combination of user-provided inputs and a customizable seed to generate passwords that are consistent and robust. Each user can build the app with their own seed, ensuring that their password generation logic is unique.
 
