@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConsistPass</string>
+    <string name="enter_website_url">Enter website URL</string>
+    <string name="generate_password">Generate Password</string>
+    <string name="generated_password">Generated Password</string>
+    <string name="exit">Exit</string>
+    <string name="enter_website_url_">Enter website URL</string>
+    <string name="copy_password">Copy Password</string>
+</resources>
