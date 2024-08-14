@@ -245,4 +245,12 @@ class MainActivity : AppCompatActivity() {
         finishAffinity()
         exitProcess(0)
     }
+
+    override fun onDestroy() {
+        super.onDestroy()
+        clearSecretKey()
+        finishAffinity()
+        exitProcess(0)
+
+    }
 }
