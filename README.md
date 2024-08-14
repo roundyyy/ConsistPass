@@ -60,6 +60,14 @@ The app is deterministic, meaning that the same combination of `Website`, `Secre
 - **Custom Seed**: The customizable seed means that every build of the app can have a unique logic, making it nearly impossible to create a one-size-fits-all reverse engineering tool.
 - **Secure Key Handling**: The `Secret Key` is securely stored and encrypted in the Android Keystore, which is designed to resist tampering even on compromised devices.
 
+## Pre-Built APK
+
+For users who don't want to build the app themselves, I provide a pre-built APK with a randomly generated seed. This APK can be downloaded directly from the [Releases](https://github.com/yourusername/ConsistPass/releases) section of the GitHub repository.
+
+### Important Note:
+- The pre-built APK uses a random seed, which means the password generation logic will be unique to this APK. If you want to customize the seed, you'll need to build the app yourself following the instructions below.
+
+
 ## Building the App
 
 ### Customizing the Seed
