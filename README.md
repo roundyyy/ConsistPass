@@ -62,7 +62,7 @@ The app is deterministic, meaning that the same combination of `Website`, `Secre
 
 ## Pre-Built APK
 
-For users who don't want to build the app themselves, I provide a pre-built APK with a randomly generated seed. This APK can be downloaded directly from the [Releases](https://github.com/yourusername/ConsistPass/releases) section of the GitHub repository.
+For users who don't want to build the app themselves, I provide a pre-built APK with a randomly generated seed. This APK can be downloaded directly from the [Releases](https://github.com/roundyyy/ConsistPass/releases/tag/v.1.0) section of the GitHub repository.
 
 ### Important Note:
 - The pre-built APK uses a random seed, which means the password generation logic will be unique to this APK. If you want to customize the seed, you'll need to build the app yourself following the instructions below.
